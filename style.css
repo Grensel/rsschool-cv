@@ -112,3 +112,36 @@ html {
     background-color: #95aec2;
     cursor: pointer;
 }
+.footer {
+    background-color: #7a91a4;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.footer-github {
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    color: #412915;
+}
+.footer-github:hover {
+    background-color: #687c8d;
+    cursor: pointer;
+}
+.footer-year {
+    justify-self: center;
+    color: #412915;
+}
+.footer-rsschool {
+    justify-self: end;
+    cursor: pointer;
+}
+.footer-rsschool:hover {
+    background-color: #687c8d;
+    cursor: pointer;
+}
