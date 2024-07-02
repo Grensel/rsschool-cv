@@ -70,3 +70,45 @@ html {
     max-width: 1440px;
     margin: 0 auto;
 }
+.left-side-container {
+    float: left;
+    margin: 0;
+    padding: 0;
+    background-color: #10243b;
+}
+.figure-left-side {
+    margin: 0;
+    padding: 0;
+}
+.left-side-container {
+    color: #e2904d;
+}
+.left-side-section{
+    margin: 15px;
+}
+.left-article-title {
+    background-color: #0e2846;
+}
+.Right-side-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 50px;
+    width:100%;
+    background-color: #c2e0f9;
+}
+.Right-side-container {
+    color: #5a381d;
+}
+.right-article-title {
+    background-color: #bcdaf3;
+}
+.link-work {
+    font-weight: bold;
+    text-decoration: none;
+    color: #5a381d;
+}
+.link-work:hover {
+    background-color: #95aec2;
+    cursor: pointer;
+}
