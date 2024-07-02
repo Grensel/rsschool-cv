@@ -1,1 +1,1 @@
-https://github.com/Grensel/rsschool-cv/blob/gh-pages/cv
+https://Grensel.github.io/rsschool-cv/
