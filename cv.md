@@ -45,6 +45,6 @@
 ## **Education**
 * **higher**, mechanical engineer*
 
-## **Langueges:**
+## **Languages:**
 * Knowledge of English at level **A1**
 * Russian: Native
